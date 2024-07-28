@@ -1,6 +1,6 @@
 ## Spring Boot Parallel Calls with RestTemplate and CompletableFuture
 For complete understanding on how we can make parallel calls using RestTemplate and CompletableFuture in case of Spring Boot application you can check out our blog.
-<br/><br/>**Blog Link:** [Spring Boot Parallel Calls with RestTemplate and CompletableFuture](https://bootcamptoprod.comhttps://bootcamptoprod.com/spring-boot-parallel-calls-resttemplate//)
+<br/><br/>**Blog Link:** [Spring Boot Parallel Calls with RestTemplate and CompletableFuture](https://bootcamptoprod.com/spring-boot-parallel-calls-resttemplate/)
 <br/>
 
 
